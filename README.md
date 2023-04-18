@@ -1,6 +1,6 @@
 # Text-synthesis-using-keras
  
-<h3> A demonstration of the capabilities of keras embedding layer with Bidirectional GRU. Spacy 3 is used for tokenization, and training in done on google colab.
+<h3> A demonstration of the capabilities of keras embedding layer with Bidirectional GRU. Spacy 3 is used for tokenization, and training is done on google colab.
 This model is is trained on the first book of harry potter. </h3> 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
